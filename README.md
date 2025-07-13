@@ -22,6 +22,7 @@ This is a simple movie recommendation system built with Python. It uses a datase
 - Python 3.x
 - pandas
 - scikit-learn
+- streamlit
 
 Install dependencies with:
 
@@ -43,6 +44,3 @@ python app.py
 
 The `movies.csv` file contains movie metadata used to build recommendations.
 
-## 📃 License
-
-This project is licensed under the MIT License.
